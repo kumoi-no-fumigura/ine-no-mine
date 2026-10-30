@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ine-no-mine",
  "yomi": "いねのみね",
  "category": "紀行",
- "description": null,
+ "description": {
+  "kind": "紀行",
+  "era": "未詳",
+  "author": "香川景樹（1768〜1843）",
+  "desc": "2月26日、親しい友に見送られて旅立ち、淀・鳥羽・伏見を経て京の三条に宿るまでを記した短い紀行。歌をまじえる。"
+ },
  "editions": [
   {
    "pid": "993388",
